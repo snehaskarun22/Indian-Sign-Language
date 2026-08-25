@@ -181,21 +181,7 @@ The classification report shows approximately 0.99 macro and weighted averages.
 
 ---
 
-## 📂 Repository Structure
 
-```text
-.
-├── README.md
-├── ISL_static_model_training.ipynb
-├── run_live_2hand_translator.py
-├── isl_static_2hand_model.keras
-├── isl_static_2hand_labels.npy
-├── requirements.txt
-└── assets/
-    └── confusion_matrix.png
-```
-
----
 
 ## ⚙️ Installation
 
