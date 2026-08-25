@@ -1,4 +1,4 @@
-# ISL
+
 #  ISL Static Sign Language Translator
 
 A computer vision and deep learning project for recognizing **Indian Sign Language (ISL) static hand gestures** using **MediaPipe Hands** and a **TensorFlow/Keras neural network**.
