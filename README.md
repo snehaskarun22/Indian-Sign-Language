@@ -1,5 +1,5 @@
 # ISL
-# 🤟 ISL Static Sign Language Translator
+#  ISL Static Sign Language Translator
 
 A computer vision and deep learning project for recognizing **Indian Sign Language (ISL) static hand gestures** using **MediaPipe Hands** and a **TensorFlow/Keras neural network**.
 
@@ -293,12 +293,12 @@ Through this project, I worked with:
 
 **Sneha S Karun**
 
-MSc AI & Data Science
+MS AI & Data Science
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub: `https://github.com/snehaskarun22`
 
-LinkedIn: `YOUR_LINKEDIN_URL`
+LinkedIn: `linkedin.com/in/sneha-s-karun-ba8397330`
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star!
+
